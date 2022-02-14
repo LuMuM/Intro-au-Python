@@ -1,7 +1,7 @@
 ---
-title: "Kit de survie en algorithmie et programmation"
+title: "Intro à la programmation en Python"
 author: "Miguel PALENCIA-OLIVAR"
-date: '2022-02-06'
+date: '2022-02-14'
 output: 
   html_document:
     keep_md: true
@@ -83,7 +83,7 @@ random.randint(0, 9) # Ceci doit faire partie du corps de la procédure à déve
 ```
 
 ```
-## 0
+## 6
 ```
 
 ## Exercice 5
